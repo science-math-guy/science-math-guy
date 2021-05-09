@@ -1,7 +1,9 @@
-| Project  | Language |
-| ------------- | ------------- |
-| Self-driving car  | ![](https://forthebadge.com/images/badges/made-with-python.svg)  |
-| Sneaker bot  | ![](https://forthebadge.com/images/badges/made-with-javascript.svg)  |
+| ### Project  | ### Language | ### Skills acquired |
+| ------------- | ------------- | ------------- |
+| Self-driving car  | ![](https://forthebadge.com/images/badges/made-with-python.svg)  | Machine Learning / Deep Learning |
+| Sneaker bot  | ![](https://forthebadge.com/images/badges/made-with-javascript.svg)  | HTTP Protocol / Web Scraping |
+| Raycasting  | ![](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)  | 3D Perspective |
+
 
 
 -------
