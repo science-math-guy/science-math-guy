@@ -1,12 +1,7 @@
-## Science-math-guy
-
-🧑‍🔬  17yo French High-Tech enthusiast
-
-### Programming languages mastered:
-
-- 🉑   Python
-- ☢️   JavaScript
-- ☣️   C++
+| Project  | Language |
+| ------------- | ------------- |
+| Self-driving car  | Python  |
+| Sneaker bot  | Javascript  |
 
 
 -------
