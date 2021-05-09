@@ -4,9 +4,9 @@
 
 ### Programming languages mastered:
 
-- 🉑 Python
-- ☢️ JavaScript
-- ☣️ C++
+- 🉑   Python
+- ☢️   JavaScript
+- ☣️   C++
 
 
 -------
