@@ -1,7 +1,7 @@
 | Project  | Language |
 | ------------- | ------------- |
-| Self-driving car  | Python  |
-| Sneaker bot  | Javascript  |
+| Self-driving car  | ![](https://forthebadge.com/images/badges/made-with-python.svg)  |
+| Sneaker bot  | ![https://forthebadge.com/images/badges/made-with-javascript.svg]  |
 
 
 -------
