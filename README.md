@@ -1,12 +1,12 @@
 ### Science-math-guy
 
-🧑‍🔬 17yo French High-Tech enthusiast
+🧑‍🔬  17yo French High-Tech enthusiast
 
 ## Programming languages mastered:
 
-- 🐍 Python
-- ☢️ JavaScript
-- 🏋️ C++
+- 🐍  Python
+- ☢️  JavaScript
+- 🏋️  C++
 
 
 -------
