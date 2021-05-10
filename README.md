@@ -1,4 +1,4 @@
-## ```🏆 Featured Projects 🦈````
+#### ``` Featured Project 🦈 ```
 
 | **Project**  | **Language** | **Skills acquired** | **Current State** |
 | :---:        |     :---:      |    :---:  |   :---:  |
