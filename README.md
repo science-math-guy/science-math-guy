@@ -1,4 +1,4 @@
-### ``` Featured Projects 🦈 ```
+### ``` Featured Projects 🦈 ``` - science-math-guy
 
 | **Project**  | **Language** | **Skills acquired** | **Current State** |
 | :---:        |     :---:      |    :---:  |   :---:  |
