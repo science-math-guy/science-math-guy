@@ -1,7 +1,5 @@
 ### ``` Featured Projects 🦈 ``` - _**[science-math-guy](https://github.com/science-math-guy)**_
 
----
-
 | **Project**  | **Language** | **Skills acquired** | **Current State** |
 | :---:        |     :---:      |    :---:  |   :---:  |
 | [**Instagram Bot**](https://github.com/science-math-guy/InstaDroid)  | ![](https://forthebadge.com/images/badges/made-with-javascript.svg)  | HTTP Protocol / Reverse Engineering | ```🛰  -  95%``` |
