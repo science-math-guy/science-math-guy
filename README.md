@@ -1,4 +1,4 @@
-### ``` Featured Projects 🦈 ``` - _**science-math-guy**_
+### ``` Featured Projects 🦈 ``` - _**[science-math-guy](https://github.com/science-math-guy)**_
 
 | **Project**  | **Language** | **Skills acquired** | **Current State** |
 | :---:        |     :---:      |    :---:  |   :---:  |
