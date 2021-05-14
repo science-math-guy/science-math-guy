@@ -2,9 +2,9 @@
 
 | **Project**  | **Language** | **Skills acquired** | **License** | **Current State** |
 | :---:        |     :---:      |    :---:  |   :---:  |   :---:  |
-| [**Instagram Bot**](https://github.com/science-math-guy/InstaDroid)  | ![](https://forthebadge.com/images/badges/made-with-javascript.svg)  | HTTP Protocol / Reverse Engineering | [[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)] | ```🛰  -  95%``` |
-| **Self-Driving Car**  | ![](https://forthebadge.com/images/badges/made-with-python.svg)  | Machine Learning / Deep Learning | ```🚀  -  50%``` |
-| **Raycasting Game**  | ![](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)  | 3D Perspective / Game Development | ```🛫  - 10%``` |
+| [**Instagram Bot**](https://github.com/science-math-guy/InstaDroid)  | ![](https://forthebadge.com/images/badges/made-with-javascript.svg)  | HTTP Protocol / Reverse Engineering | [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) | ```🛰  -  95%``` |
+| **Self-Driving Car**  | ![](https://forthebadge.com/images/badges/made-with-python.svg)  | Machine Learning / Deep Learning | [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) | ```🚀  -  50%``` |
+| **Raycasting Game**  | ![](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)  | 3D Perspective / Game Development | [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) | ```🛫  - 10%``` |
 
 
 
